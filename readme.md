@@ -1,3 +1,3 @@
 # Streakio
 
-#### under development.
+#### currently under development, check releases for beta apk downloads.
