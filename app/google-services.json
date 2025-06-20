@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "417214209542",
+    "project_id": "streakio-0",
+    "storage_bucket": "streakio-0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417214209542:android:479afccb4962dda5ceed87",
+        "android_client_info": {
+          "package_name": "com.example.streakio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417214209542-hlh2ktqa8mfque04nv2gcu2jqc8b9739.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.streakio",
+            "certificate_hash": "4850b4b134b95cb7202b7a9d30cfad9ef02ec355"
+          }
+        },
+        {
+          "client_id": "417214209542-runa5ke0h75g4f3j3u1fev2ttme6b8ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9M-P6vmUvfkgAgfO9Oj-EoKK0OxNrlf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417214209542-runa5ke0h75g4f3j3u1fev2ttme6b8ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
