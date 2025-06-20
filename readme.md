@@ -1,4 +1,4 @@
-# Streakio - Android Streaks Tracking App
+# Streakio
 
 Streakio is an Android application built with Kotlin and Jetpack Compose, designed to help users track their streaks for various habits or activities. It utilizes Firebase for backend services including authentication and real-time data storage with Firestore.
 
